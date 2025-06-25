@@ -34,7 +34,7 @@ function ContactUs() {
 
                 </div>
 
-                <p className='text-center text-slate-400 text-sm     pt-4 ' >&copy;Kanishka, All rights are reserved.</p>
+                <p className='text-center text-slate-400 text-sm     pt-4 ' >&copy;JalepanoRestaurants, All rights are reserved.</p>
 
             </div>
 

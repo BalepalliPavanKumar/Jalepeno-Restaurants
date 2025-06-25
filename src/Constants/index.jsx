@@ -118,7 +118,7 @@ export const CUSINES = [
 ];
 
 export const REVIEW = {
-  name: "AREBELLY AKSHAY",
+  name: "John",
   profession: "Food Critic",
   content:
     "“As a seasoned food critic, my expectations are always high when stepping into a new dining establishment. Restaura, with its unassuming exterior and elegantly designed interior, promised a unique culinary experience from the moment I walked in. And I must say, it delivered beyond my expectations.”",
@@ -127,9 +127,9 @@ export const REVIEW = {
 export const CUSTOMERIMAGES = [customer1, customer2, customer3, customer4]
 
 export const CONTACT = [
-  { key: "address", href:"", value: "Address: Mayuri Garden Lane,Near NIT,Kazipet" },
-  { key: "phone",href:"callto: +91 9849428400",  value: "Phone: +91 9849428400" },
-  { key: "email",href:"mailto: kanishkarestaurant01@gmail.com", value: "Email: kanishkarestaurant01@gmail.com" },
+  { key: "address", href:"", value: "Address: Near church street,Sanfransico" },
+  { key: "phone",href:"callto: +91 9550073441",  value: "Phone: +91 9550073441" },
+  { key: "email",href:"mailto: JalepanoRestaurants@gmail.com", value: "Email: JalepanoRestaurants@gmail.com" },
 ];
 
 export const SOCIAL_MEDIA_LINKS = [
